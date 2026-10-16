@@ -1,17 +1,5 @@
 # Chatty - Real-time Chat App
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: PARMAR ZALAK KANTILAL
-
-*INTERN ID*: CTIS4007
-
-*DOMAIN*: FRONT END DEVELOPMENT
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ## Chatty is a real-time chat application built as a full-stack JavaScript project with a React frontend and a Node.js WebSocket backend. The main goal of this project is to deliver an instant messaging experience where users can switch between conversations, send messages live, and see message history for each chat room. From the current implementation, Chatty is already functional as a development-ready prototype with clear core features completed.
 
 The platform stack is modern and lightweight. On the frontend, Chatty runs in the browser using React 18 with Vite as the build and development tool. On the backend, it uses Node.js with the ws library to create a standalone WebSocket server. The project uses ES Modules ("type": "module" in package.json), so imports/exports follow modern JavaScript syntax throughout both client and server code. Styling is handled with plain CSS (no Tailwind or component library), and the UI is custom-designed with responsive behavior for both desktop and mobile screen sizes.
